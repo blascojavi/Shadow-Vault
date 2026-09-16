@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "user_id": "1092837461829304",
+    "nickname": "Valkiria99",
+    "score": 142500,
+    "wave": 12,
+    "kills": 420,
+    "stage": "Pesadilla"
+  },
+  {
+    "rank": 2,
+    "user_id": "10839201948201",
+    "nickname": "SombraArcana",
+    "score": 128300,
+    "wave": 11,
+    "kills": 380,
+    "stage": "Pesadilla"
+  },
+  {
+    "rank": 3,
+    "user_id": "1174114407000000",
+    "nickname": "LordMago",
+    "score": 95400,
+    "wave": 9,
+    "kills": 290,
+    "stage": "Novato"
+  }
+]

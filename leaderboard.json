@@ -9,12 +9,39 @@
     "rank": 1
   },
   {
+    "user_id": "guest_1",
+    "nickname": "Héroe",
+    "score": 1500,
+    "wave": 3,
+    "kills": 45,
+    "stage": "Pesadilla",
+    "rank": 2
+  },
+  {
     "user_id": "test_bot",
     "nickname": "Tester",
     "score": 999,
     "wave": 1,
     "kills": 10,
     "stage": "Prueba",
-    "rank": 2
+    "rank": 3
+  },
+  {
+    "user_id": "123456789",
+    "nickname": "Tester",
+    "score": 100,
+    "wave": 1,
+    "kills": 5,
+    "stage": "Pesadilla",
+    "rank": 4
+  },
+  {
+    "user_id": "test_user",
+    "nickname": "Tester",
+    "score": 100,
+    "wave": 1,
+    "kills": 5,
+    "stage": "Pesadilla",
+    "rank": 5
   }
 ]

@@ -27,16 +27,16 @@
     "rank": 3
   },
   {
-    "user_id": "123456789",
-    "nickname": "Tester",
-    "score": 100,
+    "user_id": "102083319847829733686",
+    "nickname": "Héroe_3686",
+    "score": 285,
     "wave": 1,
-    "kills": 5,
-    "stage": "Pesadilla",
+    "kills": 19,
+    "stage": "Capítulo 1",
     "rank": 4
   },
   {
-    "user_id": "test_user",
+    "user_id": "123456789",
     "nickname": "Tester",
     "score": 100,
     "wave": 1,
@@ -45,12 +45,21 @@
     "rank": 5
   },
   {
+    "user_id": "test_user",
+    "nickname": "Tester",
+    "score": 100,
+    "wave": 1,
+    "kills": 5,
+    "stage": "Pesadilla",
+    "rank": 6
+  },
+  {
     "user_id": "113308196317071125208",
     "nickname": "Héroe_5208",
     "score": 0,
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 6
+    "rank": 7
   }
 ]

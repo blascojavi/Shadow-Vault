@@ -43,5 +43,14 @@
     "kills": 5,
     "stage": "Pesadilla",
     "rank": 5
+  },
+  {
+    "user_id": "113308196317071125208",
+    "nickname": "Héroe_5208",
+    "score": 0,
+    "wave": 1,
+    "kills": 0,
+    "stage": "Capítulo 1",
+    "rank": 6
   }
 ]

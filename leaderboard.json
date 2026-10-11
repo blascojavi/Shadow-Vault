@@ -63,13 +63,22 @@
     "rank": 7
   },
   {
+    "user_id": "112311809949115858721",
+    "nickname": "Héroe_8721",
+    "score": 15,
+    "wave": 1,
+    "kills": 1,
+    "stage": "Pesadilla",
+    "rank": 8
+  },
+  {
     "user_id": "113308196317071125208",
     "nickname": "Héroe_5208",
     "score": 0,
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 8
+    "rank": 9
   },
   {
     "user_id": "116911803132266168052",
@@ -78,20 +87,11 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 9
+    "rank": 10
   },
   {
     "user_id": "107374713384804799148",
     "nickname": "Héroe_9148",
-    "score": 0,
-    "wave": 1,
-    "kills": 0,
-    "stage": "Capítulo 1",
-    "rank": 10
-  },
-  {
-    "user_id": "112311809949115858721",
-    "nickname": "Héroe_8721",
     "score": 0,
     "wave": 1,
     "kills": 0,

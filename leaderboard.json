@@ -9,20 +9,20 @@
     "rank": 1
   },
   {
+    "user_id": "guest_1",
+    "nickname": "Héroe",
+    "score": 11610,
+    "wave": 3,
+    "kills": 280,
+    "stage": "Capítulo 1",
+    "rank": 2
+  },
+  {
     "user_id": "117128612680637631238",
     "nickname": "Juan Lopez",
     "score": 8550,
     "wave": 2,
     "kills": 289,
-    "stage": "Capítulo 1",
-    "rank": 2
-  },
-  {
-    "user_id": "guest_1",
-    "nickname": "Héroe",
-    "score": 1525,
-    "wave": 1,
-    "kills": 70,
     "stage": "Capítulo 1",
     "rank": 3
   },

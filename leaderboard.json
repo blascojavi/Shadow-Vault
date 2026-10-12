@@ -45,16 +45,16 @@
     "rank": 5
   },
   {
-    "user_id": "123456789",
-    "nickname": "Tester",
-    "score": 100,
+    "user_id": "111364597741789611388",
+    "nickname": "Héroe_1388",
+    "score": 240,
     "wave": 1,
-    "kills": 5,
+    "kills": 16,
     "stage": "Pesadilla",
     "rank": 6
   },
   {
-    "user_id": "test_user",
+    "user_id": "123456789",
     "nickname": "Tester",
     "score": 100,
     "wave": 1,
@@ -63,13 +63,22 @@
     "rank": 7
   },
   {
+    "user_id": "test_user",
+    "nickname": "Tester",
+    "score": 100,
+    "wave": 1,
+    "kills": 5,
+    "stage": "Pesadilla",
+    "rank": 8
+  },
+  {
     "user_id": "112311809949115858721",
     "nickname": "Héroe_8721",
     "score": 15,
     "wave": 1,
     "kills": 1,
     "stage": "Pesadilla",
-    "rank": 8
+    "rank": 9
   },
   {
     "user_id": "113308196317071125208",
@@ -78,7 +87,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 9
+    "rank": 10
   },
   {
     "user_id": "116911803132266168052",
@@ -87,7 +96,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 10
+    "rank": 11
   },
   {
     "user_id": "107374713384804799148",
@@ -96,7 +105,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 11
+    "rank": 12
   },
   {
     "user_id": "104836485199887179472",
@@ -105,7 +114,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 12
+    "rank": 13
   },
   {
     "user_id": "110114645683331354498",
@@ -114,20 +123,11 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 13
+    "rank": 14
   },
   {
     "user_id": "114428419227149453729",
     "nickname": "Héroe_3729",
-    "score": 0,
-    "wave": 1,
-    "kills": 0,
-    "stage": "Capítulo 1",
-    "rank": 14
-  },
-  {
-    "user_id": "111364597741789611388",
-    "nickname": "Héroe_1388",
     "score": 0,
     "wave": 1,
     "kills": 0,

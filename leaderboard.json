@@ -54,13 +54,22 @@
     "rank": 6
   },
   {
+    "user_id": "102461600710634872498",
+    "nickname": "Héroe_2498",
+    "score": 210,
+    "wave": 1,
+    "kills": 14,
+    "stage": "Pesadilla",
+    "rank": 7
+  },
+  {
     "user_id": "116560687998671803040",
     "nickname": "Héroe_3040",
     "score": 135,
     "wave": 1,
     "kills": 9,
     "stage": "Pesadilla",
-    "rank": 7
+    "rank": 8
   },
   {
     "user_id": "123456789",
@@ -69,7 +78,7 @@
     "wave": 1,
     "kills": 5,
     "stage": "Pesadilla",
-    "rank": 8
+    "rank": 9
   },
   {
     "user_id": "test_user",
@@ -78,7 +87,7 @@
     "wave": 1,
     "kills": 5,
     "stage": "Pesadilla",
-    "rank": 9
+    "rank": 10
   },
   {
     "user_id": "100579301096065291095",
@@ -87,7 +96,7 @@
     "wave": 1,
     "kills": 3,
     "stage": "Pesadilla",
-    "rank": 10
+    "rank": 11
   },
   {
     "user_id": "112311809949115858721",
@@ -96,7 +105,7 @@
     "wave": 1,
     "kills": 1,
     "stage": "Pesadilla",
-    "rank": 11
+    "rank": 12
   },
   {
     "user_id": "113308196317071125208",
@@ -105,7 +114,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 12
+    "rank": 13
   },
   {
     "user_id": "116911803132266168052",
@@ -114,7 +123,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 13
+    "rank": 14
   },
   {
     "user_id": "107374713384804799148",
@@ -123,7 +132,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 14
+    "rank": 15
   },
   {
     "user_id": "104836485199887179472",
@@ -132,7 +141,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 15
+    "rank": 16
   },
   {
     "user_id": "110114645683331354498",
@@ -141,7 +150,7 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 16
+    "rank": 17
   },
   {
     "user_id": "114428419227149453729",
@@ -150,20 +159,11 @@
     "wave": 1,
     "kills": 0,
     "stage": "Capítulo 1",
-    "rank": 17
+    "rank": 18
   },
   {
     "user_id": "114676299573713909265",
     "nickname": "Héroe_9265",
-    "score": 0,
-    "wave": 1,
-    "kills": 0,
-    "stage": "Capítulo 1",
-    "rank": 18
-  },
-  {
-    "user_id": "102461600710634872498",
-    "nickname": "Héroe_2498",
     "score": 0,
     "wave": 1,
     "kills": 0,
